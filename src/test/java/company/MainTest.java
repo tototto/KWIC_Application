@@ -46,7 +46,7 @@ public class MainTest
         System.setIn(in); // Reset System.in to its original
 
         // read input and perform [Circular Shifting + Alphabetizing]
-        Input.FileReader("TIC3001-Assignment1-testcases\\testcase1\\TitlesInput1.txt");
+        Input.FileReader("TIC3001-Assignment1-testcases/testcase1/TitlesInput1.txt");
 
         // Read Correct Expected Output into test
         Read_Expected_Output(CorrectOutput);
