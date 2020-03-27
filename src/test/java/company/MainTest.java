@@ -32,7 +32,7 @@ public class MainTest
     /**
      * Test 1
      * Regression Testing for basic KWIC Functionality:
-     * Circular Shifting & Alphabetizing Input
+     * Circular Shifting & Alphabetizing Input.
     */
     public void Regression_For_Assignment_1()
     {
