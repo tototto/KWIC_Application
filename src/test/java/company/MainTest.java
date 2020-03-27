@@ -16,7 +16,7 @@ import static org.junit.Assert.assertEquals;
 
 //import main.company.*;
 
-public class test
+public class MainTest
 {
     Ignore WordToIgnore = new Ignore();
     Required WordsRequired = new Required(WordToIgnore);
